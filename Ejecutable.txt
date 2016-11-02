@@ -1,0 +1,2 @@
+python nombre.py py2exe
+self.txtNombre.SetValidator(ContieneDatos())#activa la validacion
